@@ -1,6 +1,11 @@
+body {
+  background-color: #00ba89;
+}
+
 .main {
   font-family: 'Source Sans Pro', sans-serif;
 }
+
 #footer {
   font-family: 'Source Code Pro', monospace;
   position: fixed;
