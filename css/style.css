@@ -16,3 +16,10 @@ body {
   left:0; 
   background: gray;
 }
+
+#footer-2 {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: flex-end;
+}
