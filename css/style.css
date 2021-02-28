@@ -22,4 +22,5 @@ body {
     align-content: center;
     align-items: center;
     justify-content: flex-end;
+    bottom: 0;
 }
